@@ -10,7 +10,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **https://www.facebook.com/norhan.reda12345/ -https://www.linkedin.com/in/norhan-reda-4a37011b8/**
+- 📫 How to reach me **
+https://www.facebook.com/norhan.reda12345/
+
+-https://www.linkedin.com/in/norhan-reda-4a37011b8/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
