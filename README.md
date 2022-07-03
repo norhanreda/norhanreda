@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm norhan reda</h1>
 <h3 align="center">A passionate student in Cairo university computer engineering</h3>
 
+![image](https://user-images.githubusercontent.com/88630231/177030562-75f5d03a-c082-42aa-9ae1-d752517d2d9e.png)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norhanreda&label=Profile%20views&color=0e75b6&style=flat" alt="norhanreda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norhanreda" alt="norhanreda" /></a> </p>
