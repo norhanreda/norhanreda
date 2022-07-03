@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm norhan reda</h1>
 <h3 align="center">A passionate student in Cairo university computer engineering</h3>
 
-![image](https://user-images.githubusercontent.com/88630231/177030562-75f5d03a-c082-42aa-9ae1-d752517d2d9e.png)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norhanreda&label=Profile%20views&color=0e75b6&style=flat" alt="norhanreda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norhanreda" alt="norhanreda" /></a> </p>
@@ -12,16 +9,17 @@
 
 - 📫 How to reach me **
 
--https://www.facebook.com/norhan.reda12345/
+- https://www.facebook.com/norhan.reda12345/
 
--https://www.linkedin.com/in/norhan-reda-4a37011b8/**
+-  -https://www.linkedin.com/in/norhan-reda-4a37011b8/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/norhan-reda-4a37011b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/norhan-reda-4a37011b8/" height="30" width="40" /></a>
-<a href="https://https://www.hackerrank.com/Norhan_ahmed01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@norhan_ahmed01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/norhan-reda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="norhan-reda" height="30" width="40" /></a>
+<a href="https://fb.com/norhan.reda12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="norhan.reda12345" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/norhan_ahmed01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="norhan_ahmed01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/norhanreda12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="norhanreda12345" height="30" width="40" /></a>
-<a href="https://discord.gg/norhan reda#2095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="norhan reda#2095" height="30" width="40" /></a>
+<a href="https://discord.gg/#2095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2095" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
