@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm norhan reda</h1>
-<h3 align="center">A passionate student in Cairo university computer engineering</h3>
+<h3 align="center">A passionate student at Cairo university  faculty of engineering computer department </h3>
 
 ![image](https://user-images.githubusercontent.com/88630231/177032171-d6d30e42-3141-413c-b913-f2ef6c83e101.png)
 
