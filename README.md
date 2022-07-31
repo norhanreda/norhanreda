@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm norhan reda</h1>
 <h3 align="center">A passionate student at Cairo university  faculty of engineering computer department </h3>
 
-![image](https://user-images.githubusercontent.com/88630231/177032171-d6d30e42-3141-413c-b913-f2ef6c83e101.png)
+![image](https://user-images.githubusercontent.com/88630231/182046174-7e160318-6dd6-4060-b46b-644c23027f9d.png)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norhanreda&label=Profile%20views&color=0e75b6&style=flat" alt="norhanreda" /> </p>
