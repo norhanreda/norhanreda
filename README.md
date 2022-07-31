@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm norhan reda</h1>
 <h3 align="center">A passionate student at Cairo university  faculty of engineering computer department </h3>
 
-<img src="https://i0.wp.com/i.giphy.com/media/137EaR4vAOCn1S/giphy-downsized.gif?w=770&ssl=1" width="300" height="100">
+<img src="https://i0.wp.com/i.giphy.com/media/137EaR4vAOCn1S/giphy-downsized.gif?w=770&ssl=1" width="800" height="200">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norhanreda&label=Profile%20views&color=0e75b6&style=flat" alt="norhanreda" /> </p>
