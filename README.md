@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norhanreda&show_icons=true&locale=en" alt="norhanreda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=norhanreda&" alt="norhanreda" /></p>
+
+<b>♥ bye ♥ </b>
