@@ -6,7 +6,7 @@
 <!--
 <img src="https://i.pinimg.com/originals/b4/3a/9a/b43a9a78438313a7d2d8e6dfcaef8e8d.gif" width="700" height="400" align="center">
 -->
-<img src="https://i.imgur.com/IkdLIvu.gif" width="600" height="300" align="center">
+<img src="https://i.imgur.com/IkdLIvu.gif" width="700" height="300" align="center">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norhanreda&label=Profile%20views&color=0e75b6&style=flat" alt="norhanreda" /> </p>
