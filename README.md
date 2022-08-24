@@ -28,7 +28,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/" rel="nofollow">@Faculty of Engineering Cairo University</a>.</p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="running_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3-2642.png">🏃‍♂️</g-emoji> I am passionate about Front-End, Machine Learning, AI and Embedded Systems</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="running_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3-2642.png">🏃‍♂️</g-emoji> I am passionate about Front-End, Machine Learning and Embedded Systems</p>
 </li>
 
   <!--<li>
