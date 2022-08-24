@@ -16,6 +16,28 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=norhanreda&label=Profile%20views&color=0e75b6&style=flat" alt="norhanreda"   /> </p>
 
 
+<ul dir="auto">
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji> Software Engineering Internship <a href="https://www.datagearbi.com/" rel="nofollow"> @Data Gear</a>.</p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/" rel="nofollow">@Faculty of Engineering Cairo University</a>.</p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="running_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c3-2642.png">🏃‍♂️</g-emoji> I am passionate about Front-End, Machine Learning, AI and Embedded Systems</p>
+</li>
+
+  <!--<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Currently Reading: <a href="https://www.oreilly.com/library/view/clean-code-a/9780136083238/" rel="nofollow"> "Clean Code: A Handbook of Agile Software Craftsmanship" </a> by Robert C. Martin.</p>
+</li>-->
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">🚧</g-emoji> I'm currently focusing on improving my frontend skills.</p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="four_leaf_clover" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f340.png">🍀</g-emoji> Ask me about anything, I will be happy to help.</p>
+</li>
+</ul>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
