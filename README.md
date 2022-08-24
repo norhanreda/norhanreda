@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" alt="norhanreda"   /> </p>
 
 <!--about me-->
- <p align="left">< img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="80" height="80" / > <b>about me </b> </p>
+
 <ul dir="auto">
 
   <!--<li>
