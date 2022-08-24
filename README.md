@@ -10,13 +10,13 @@
 <img src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif" width="700" height="300" align="center">
 -->
 <!--image-->
-<p align="center"><img src="https://i.imgur.com/IkdLIvu.gif" width="700" height="300" > </p>
+<p align="center"><img src="img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif"  > </p>
 
 <!--views-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=norhanreda&label=Profile%20views&color=0e75b6&style=flat" alt="norhanreda"   /> </p>
 
 <!--about me-->
- <p align="left"><img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif"   > <b>about me </b> </p>
+ <p align="left">< width="80" height="80"  > <b>about me </b> </p>
 <ul dir="auto">
 
   <!--<li>
