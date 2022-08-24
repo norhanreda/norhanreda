@@ -2,13 +2,13 @@
 <h3 align="center">A passionate student at Cairo university  faculty of engineering computer department </h3>
 
 <!--image-->
-<p align="center"><img src="img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif"  /> </p>
+<img src="https://i0.wp.com/i.giphy.com/media/137EaR4vAOCn1S/giphy-downsized.gif?w=770&ssl=1" width="600" height="300" align="center">
 
 <!--views-->
 <p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5602ddfcbbb06aa12b5525e2064469fe3f4a535274d641b6dff10e92843d6619/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e6f7268616e72656461266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/5602ddfcbbb06aa12b5525e2064469fe3f4a535274d641b6dff10e92843d6619/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e6f7268616e72656461266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="norhanreda" data-canonical-src="https://komarev.com/ghpvc/?username=norhanreda&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
 <!--about me-->
-
+<h1>about me</h1>
 <ul dir="auto">
 
   <!--<li>
