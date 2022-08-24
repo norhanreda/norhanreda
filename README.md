@@ -13,10 +13,10 @@
 <p align="center"><img src="img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif"  > </p>
 
 <!--views-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=norhanreda&label=Profile%20views&color=0e75b6&style=flat" alt="norhanreda"   /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" alt="norhanreda"   /> </p>
 
 <!--about me-->
- <p align="left">< width="80" height="80"  > <b>about me </b> </p>
+ <p align="left">< img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="80" height="80"  > <b>about me </b> </p>
 <ul dir="auto">
 
   <!--<li>
