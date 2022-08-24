@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student at Cairo university  faculty of engineering computer department </h3>
 
 <!--image-->
-<p align="center"><img src="img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif"  > </p>
+<p align="center"><img src="img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif"  /> </p>
 
 <!--views-->
 <p align="center"> <img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" alt="norhanreda"   /> </p>
