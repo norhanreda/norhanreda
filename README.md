@@ -15,7 +15,8 @@
 <!--views-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=norhanreda&label=Profile%20views&color=0e75b6&style=flat" alt="norhanreda"   /> </p>
 
-
+<!--about me-->
+ <p align="center"><img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="10" height="10" > <b>about me </b> </p>
 <ul dir="auto">
 
   <!--<li>
