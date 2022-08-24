@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student at Cairo university  faculty of engineering computer department </h3>
 
 <!--image-->
-<p align="center"><img src="https://i0.wp.com/i.giphy.com/media/137EaR4vAOCn1S/giphy-downsized.gif?w=770&ssl=1" width="600" height="300" ></p>
+<p align="center"><img src="https://i0.wp.com/i.giphy.com/media/137EaR4vAOCn1S/giphy-downsized.gif?w=770&ssl=1" width="600rem" height="300rem" ></p>
 <!--
 <img src="https://i0.wp.com/i.giphy.com/media/137EaR4vAOCn1S/giphy-downsized.gif?w=770&ssl=1" width="600" height="300" align="center">
 -->
