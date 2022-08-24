@@ -40,6 +40,8 @@
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="four_leaf_clover" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f340.png">🍀</g-emoji> Ask me about anything, I will be happy to help.</p>
 </li>
+  <p > MY Resume <a href="https://docs.google.com/document/d/1T3q8dWgHttM_BNFF7DSawNADog9y9s5QqzpkmgvP_m8/edit" download"><img src="https://images.clipartlogo.com/files/istock/previews/9842/98425255-cv-resume-icon-modern-flat-2-0-style.jpg" width="82" height="86" title=" Resume" alt=" Resume"></a> </p> 
+</li>
 </ul>
 
 
