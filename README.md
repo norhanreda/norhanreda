@@ -17,9 +17,10 @@
 
 
 <ul dir="auto">
-<li>
+
+  <!--<li>
 <p dir="auto"><g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji> Software Engineering Internship <a href="https://www.datagearbi.com/" rel="nofollow"> @Data Gear</a>.</p>
-</li>
+</li>-->
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/" rel="nofollow">@Faculty of Engineering Cairo University</a>.</p>
 </li>
