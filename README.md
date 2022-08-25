@@ -3,6 +3,7 @@
 
 <!--image-->
 <p align="center"><img src="https://i0.wp.com/i.giphy.com/media/137EaR4vAOCn1S/giphy-downsized.gif?w=770&ssl=1" width="600rem" height="300rem" ></p>
+<!--temp images-->
 <!--
 <img src="https://i0.wp.com/i.giphy.com/media/137EaR4vAOCn1S/giphy-downsized.gif?w=770&ssl=1" width="600" height="300" align="center">
 -->
