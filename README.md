@@ -42,7 +42,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="four_leaf_clover" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f340.png">🍀</g-emoji> Ask me about anything, I will be happy to help.</p>
 </li>
   <li>
-  <p > <h6> MY Resume </h6><a href="https://docs.google.com/document/d/1OEnuMvPmMZ8YCoUfBN0NDuNQNAKc-3b5/edit?usp=sharing&ouid=105493215842550323447&rtpof=true&sd=true" download"><img src="https://images.clipartlogo.com/files/istock/previews/9842/98425255-cv-resume-icon-modern-flat-2-0-style.jpg" width="82" height="86" title=" Resume" alt=" Resume"></a> </p> 
+  <p > <h6> MY Resume </h6><a href="https://drive.google.com/file/d/1IudvpKbY2FO1OFwa199Eozvef7pTD3Q0/view?usp=drive_link" download"><img src="https://images.clipartlogo.com/files/istock/previews/9842/98425255-cv-resume-icon-modern-flat-2-0-style.jpg" width="82" height="86" title=" Resume" alt=" Resume"></a> </p> 
 </li>
 </ul>
 
