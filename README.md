@@ -16,7 +16,7 @@
 
 
 <!--views-->
-![](https://komarev.com/ghpvc/?username=your-github-username)
+<p align="center">![](https://komarev.com/ghpvc/?username=your-github-username)</p>
 
 <!--about me-->
 <h1>about me</h1>
