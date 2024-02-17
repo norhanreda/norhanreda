@@ -16,7 +16,7 @@
 
 
 <!--views-->
-![](https://komarev.com/ghpvc/?username=your-github-username)
+<img align="center" src="https://komarev.com/ghpvc/?username=your-github-username" alt="Profile Views Badge">
 
 <!--about me-->
 <h1>about me</h1>
