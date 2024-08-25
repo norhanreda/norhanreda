@@ -82,7 +82,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.tutorialandexample.com/vue-js-tutorial" target="_blank" rel="norefer"> <img src="https://www.tutorialandexample.com/wp-content/uploads/2020/05/Vue.js-Tutorial.png" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://react.dev/" target="_blank" rel="norefer"> <img src="https://miro.medium.com/v2/resize:fit:522/0*Hdm7hBTZ-hKlbtlV.png" alt="react.js" width="40" height="40"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="norefer"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*y6IcBe5J1AdALzXw.png" alt="react.js" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com/" target="_blank" rel="norefer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/640px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/> </a> 
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
